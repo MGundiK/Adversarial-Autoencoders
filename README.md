@@ -1,2 +1,2 @@
 # Adversarial-Autoencoders
-Comparison of variational and adverserial autoencoders
+Comparison of variational and adversarial autoencoders.
